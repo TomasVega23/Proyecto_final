@@ -1,0 +1,27 @@
+[
+    {
+       "id":1,
+       "nombre":"anillos",
+       "precio":5000
+    },
+    {
+       "id":2,
+       "nombre":"cadenas",
+       "precio":7500
+    },
+    {
+       "id":3,
+       "nombre":"relojes",
+       "precio":10000
+    },
+    {
+       "id":4,
+       "nombre":"pulseras",
+       "precio":8000
+    },
+    {
+       "id":5,
+       "nombre":"aros",
+       "precio":3500
+    }
+]
